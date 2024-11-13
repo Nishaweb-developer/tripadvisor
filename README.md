@@ -64,4 +64,3 @@ This project is open-source and available under the MIT License.
 
 ---
 
-This README provides an overview, describes the features and technologies used, and gives basic instructions for setting up and viewing the project. Let me know if you'd like to add more details!
