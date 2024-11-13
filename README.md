@@ -1,7 +1,3 @@
-Here’s a README file for your TripAdvisor clone. This should cover the essential details and give potential users or contributors an overview of your project:
-
----
-
 # TripAdvisor Clone
 
 A responsive TripAdvisor website clone built using HTML, CSS, and JavaScript. This project mimics the basic layout and functionality of the original TripAdvisor site, featuring a dynamic header, clean design, and a responsive layout.
